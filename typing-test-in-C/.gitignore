@@ -1,0 +1,6 @@
+/test.c
+/test
+/typing-test
+*.o
+*.out
+*.exe
